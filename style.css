@@ -122,6 +122,8 @@ a {
 @media (max-width:768px) {
     .fotos-container {
   grid-template-columns: 1fr ;
+  justify-content: center;
+  align-items: center;
     }
 
     .fotos img {
